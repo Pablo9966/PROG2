@@ -5,7 +5,12 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww16020\viewh14280\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs36 \cf0 Ich trainiere momentan mit einer App, in der ich meine \'dcungen zusammegestellt habe. Ich habe die Reihenfolge eingestellt, das Gewicht und die Wiederholungen. Jedes mal, wenn ich trainiere, sehe ich auf dieser App welche \'dcung als n\'e4chstes kommt und mit welchem Gewicht ich trainieren muss. Auch sehe ich, wieviele Wiederholugen ich das letzte mal geschaft habe. Jedoch muss ich, wenn ich mehr Gewicht nehmen m\'f6chte, dies manuell in der App eingeben. Die App erkennt nicht, wenn ich mehrere Male die Wiederholungen komplett geschaft habe, dass ich jetzt mehr Gewicht ben\'f6tige.\
-\
-Funktion:\
-Ich stelle die komplette App dar, mit allen bisherigen Funktionen. Jedoch baue ich die M\'f6glichkeit ein, dass wenn ich 6x, die anfangs eingegebene, Wiederholungsanzahl erreicht habe, mich fragt, ob ich das Gewicht jetzt um 5Kg erh\'f6hen soll. Wenn ich nein sage, soll mich die App nach 2 weiteren S\'e4tzen erneut fragen. Hallo}
+Name:
+Dog_calculator
+
+Ausgangslage:
+Es gibt unzählige Hundearten und jede davon hat so ihre Eigenheiten. Die einen sind kurzhaar und sind eher Jagthunde, die anderen langhaar und totale Familienhunde welche es gerne gemütlich mögen. Genau so sind auch wir Menschen. Daher gibt es spezielle Hunderassen, welche besser zu einem passen wie andere. 
+
+Funktion:
+Deshalb möchte ich einen Hunde-Konfigurator erstellen. Dem User werden mehrere Fragen gestellt um herauszufinden wie dieser tickt und was für einen Charakter er hat. Dannach errechnet das System welche Hunderasse am besten zu ihm passt und schlägt ihm diesen vor. 
+Da es jedoch über 300 Hunderassen gibt, möchte ich mich dabei auf die häuffigsten und beliebtesten Rassen begrenzen. 
