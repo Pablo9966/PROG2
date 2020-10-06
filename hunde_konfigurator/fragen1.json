@@ -1,0 +1,68 @@
+{
+	"1": {
+		"Frage": "Welche Grösse sollte dein Hund haben?",
+		"Antwort": [
+			["A:", "Klein"],
+			["B:", "Mittel"],
+			["C:", "Gross"],
+			["D:", "Ist mir egal"]
+		]
+	},
+
+	"2": {
+		"Frage": "Welches Fell gefällt dir am besten?",
+		"Antwort": [
+			["A:", "Kurz"],
+			["B:", "Mittel"],
+			["C:", "Lang"],
+			["D:", "Ist mir egal"]
+		]
+	},
+
+	"3": {
+		"Frage": "Wie viel Zeit pro Tag hast du Zeit für den Hund?",
+		"Antwort": [
+			["A:", "0-1"],
+			["B:", "1-2"],
+			["C:", "2-3"],
+			["D:", "> 3"]
+		]
+	},
+
+	"4": {
+		"Frage": "Wie viel Zeit möchtest du pro Woche für die Pflege des Hundes auswenden?",
+		"Antwort": [
+			["A:", "0-1"],
+			["B:", "1-2"],
+			["C:", "2-3"],
+			["D:", "> 3"]
+		]
+	},
+
+	"5": {
+		"Frage": "Welche Charakteristik sollte dein Hund in jedem Fall haben?",
+		"Antwort": [
+			["A:", "Wachhund"],
+			["B:", "Hütehund"],
+			["C:", "Jagthund"],
+			["D:", "Für mich unwichtig"]
+		]
+	},
+
+	"6": {
+		"Frage": "Was beschreibt am Besten die Situation bei dir zu Hause?",
+		"Antwort": [
+			["A:", "Full House: Es ist immer etwas los"],
+			["B:", "Familienlegen wird grossgeschrieben"],
+			["C:", "Ruhiger Haushalt mit wenig Trubel"]
+		]
+	},
+
+	"7": {
+		"Frage": "Leben Kinder im Haushalt und sollte der Hund daher familienfreundlich sein?",
+		"Antwort": [
+			["A:", "Ja"],
+			["B:", "Nein"]
+		]
+	}
+}
